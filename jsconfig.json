@@ -1,4 +1,4 @@
-{
+{ // 解决@符号提示文件路径的问题
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
